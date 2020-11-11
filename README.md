@@ -4,12 +4,12 @@
 #### Solution to the [**2020 OSIC Pulmonary Fibrosis Progression**](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression)  Challenge
 
 <br>
-<a href="https://reyvaz.github.io/CLT-LLN-Simulations/clt_lln.html" 
+<a href="https://githubtocolab.com/reyvaz/Pulmonary-Fibrosis-Progression-2020/blob/master/OSIC_pulmonary_fibrosis_progression.ipynb" 
 rel="see html report">
 <img src="media/colab.png" alt="Drawing" width = "150">
 </a>
-<br>
-[Open Notebook in Colab](https://reyvaz.github.io/CLT-LLN-Simulations/clt_lln.html)
+
+[Open Notebook in Colab](https://githubtocolab.com/reyvaz/Pulmonary-Fibrosis-Progression-2020/blob/master/OSIC_pulmonary_fibrosis_progression.ipynb)
 
 <br>
 
