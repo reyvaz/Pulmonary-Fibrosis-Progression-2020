@@ -7,9 +7,10 @@
 <a href="https://reyvaz.github.io/CLT-LLN-Simulations/clt_lln.html" 
 rel="see html report">
 <img src="media/colab.png" alt="Drawing" width = "150">
-<figcaption>Open Notebook in Colab</figcaption>
 </a>
 <br>
+[Open Notebook in Colab](https://reyvaz.github.io/CLT-LLN-Simulations/clt_lln.html)
+
 <br>
 
 This repo contains my solution to the Kaggle OSIC [Pulmonary Fibrosis Progression, Predict Lung Function Decline](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression) competition hosted by the Open Source Imaging Consortium ([OSIC](https://www.osicild.org/)) that ended on October 6, 2020. The final ensemble notebook can be viewed [here](https://www.kaggle.com/reyvaz/osic-linear-decay-and-quant-reg-inference).
