@@ -1,3 +1,4 @@
 ignore/**
 .ipynb_checkpoints/**
 README.html
+OSIC_pulmonary_fibrosis_progression_hide.ipynb
